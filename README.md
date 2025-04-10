@@ -90,7 +90,8 @@ int main() {
 ~~~
 # OUTPUT
 
-![Screenshot 2025-04-10 142936](https://github.com/user-attachments/assets/45f104cd-9438-4baa-838f-53452f347271)
+![Screenshot 2025-04-10 142936](https://github.com/user-attachments/assets/d32aa655-b362-41b3-9db7-47ab4458fa89)
+
 ![Screenshot 2025-04-10 143040](https://github.com/user-attachments/assets/984fe4d7-2421-433e-ae01-74abe35a85a9)
 
 
